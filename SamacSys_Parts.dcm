@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP ISM303DACTR
+D STMICROELECTRONICS - ISM303DACTR - MEMS MODULE, 3-AXIS MAGNET/ACCEL, LGA-12
+K
+F https://www.st.com/resource/en/datasheet/ism303dac.pdf
+$ENDCMP
+#
+#End Doc Library
